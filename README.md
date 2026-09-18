@@ -113,8 +113,22 @@ The architecture is intentionally modular so that simulated payment routes can l
 ## 👨‍💻 About the Developer
 
 **Shivam**
+## 👨‍💻 About the Developer
 
-I am building my career at the intersection of **Data Science, Business Analytics, SQL, AI, and technology**, with prior professional experience in the fashion/export business and a strong focus on applying data and technology to real-world business problems.
+**Shivam**
+
+I am a technology and data professional with **several years of professional experience** and a strong focus on the intersection of **Data Science, Business Analytics, Artificial Intelligence, Generative AI, and modern technology**. My background combines real-world business experience with hands-on expertise in designing and building data-driven and AI-enabled solutions.
+
+My technical experience and areas of expertise include **SQL, Python, Data Science, Machine Learning (ML), Artificial Intelligence (AI), Generative AI (GenAI), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Agentic AI, prompt engineering, prompt optimization, prompt injection and AI security concepts, automation, APIs, databases, data analytics, data engineering concepts, and AI application development**.
+
+I work across the broader AI ecosystem, including **LLM-powered applications, RAG pipelines, AI agents, agentic workflows, AI-assisted development, structured prompting, context engineering, model interaction, and emerging AGI concepts**. I am particularly interested in understanding how AI systems connect with **data, software, business processes, APIs, and decision-making systems**.
+
+Beyond individual technologies, my approach is focused on building **complete, business-oriented systems** rather than isolated demonstrations. I work with **product requirements, KPIs, data modeling, SQL, analytical workflows, automation, system architecture, AI integration, and product thinking** to translate real-world business problems into functional technology solutions.
+
+**SmartUPI Router** reflects this approach by combining a **product requirements specification, information architecture, dynamic payment workflow, rule-based routing engine, transaction data model, reconciliation workflow, analytics layer, and AI-ready architecture** into a single project.
+
+My broader goal is to build intelligent systems that bring together **data + software + AI + business intelligence + automation** to solve practical problems at scale.
+
 
 My projects are designed around more than just interfaces: I focus on **business requirements, KPIs, data modeling, SQL, analytical workflows, automation, AI systems, and product thinking**.
 
