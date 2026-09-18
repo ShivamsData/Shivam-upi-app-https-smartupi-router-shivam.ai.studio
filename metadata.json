@@ -1,0 +1,6 @@
+{
+  "name": "SmartUPI Router",
+  "description": "Dynamic UPI QR code generation and automated payment routing terminal with real-time route evaluation, sandbox simulation, transaction ledger, and reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
